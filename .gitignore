@@ -1,0 +1,18 @@
+# Ignore all .ipynb_checkpoints folders
+**/.ipynb_checkpoints/
+
+# Ignore dataset or model folders (adjust based on location)
+Indian/
+
+ISL custom Data/
+
+ISL_Dataset/
+# or if it's in a subfolder:
+Sign_Language_Detector/Indian/
+Indian/
+# Optional: Ignore trained models
+*.h5
+*.keras
+
+
+*.py
